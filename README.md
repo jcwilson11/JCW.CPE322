@@ -19,5 +19,5 @@
 
 ---
 
-*Feel free to contact me at [jwilson5@stevens.edu](mailto:your-email@example.com) or connect with me on [[LinkedIn](https://www.linkedin.com/in/joriswilson11/)]([your-linkedin-profile-link](https://www.linkedin.com/in/joriswilson11/)https://www.linkedin.com/in/joriswilson11/).*
+*Feel free to contact me at [jwilson5@stevens.edu](mailto:your-email@example.com) or connect with me on [[LinkedIn](https://www.linkedin.com/in/joriswilson11/)](https://www.linkedin.com/in/joriswilson11/)https://www.linkedin.com/in/joriswilson11/).*
 
