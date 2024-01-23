@@ -1,8 +1,9 @@
 # **Joris Wilson: CPE 322 - Engineering VI**
 
-## This repo will contain all related files and notes to CPE 322, a design class at Stevens Institute of Technology
+## This repo will contain all related files and notes to CPE 322, an undergraduate design class at Stevens Institute of Technology
 
 ---
+
 ## My name is Joris, and I am a 3rd year computer engineering undergrad at Stevens
 
 ### About Me 
@@ -11,11 +12,9 @@
 - Although I have no industry experience, I would love the opportunity to work/intern for a company focusing on software development within education and/or physical system implementation for quality of life or security in education
 
 ### Prerequisite Knowledge
-- **Skill 1**: Description or level of proficiency
-- **Skill 2**: Description or level of proficiency
-- **Skill 3**: Description or level of proficiency
-   - Additional note or application of the skill
-- **Skill 4**: Description or level of proficiency
+- **Skill 1**: Proficient in Git
+- **Skill 2**: Experienced with MacOS and Windows
+- **Skill 3**: Experienced programming using C++, Python, HTML, CSS, Javascript, MATLAB, and Swift
 
 ---
 
