@@ -3,8 +3,9 @@
 ## This repo will contain all related files and notes to CPE 322, a design class at Stevens Institute of Technology
 
 ---
+## My name is Joris, and I am a 3rd year computer engineering undergrad at Stevens
 
-### About Me - Fun Facts
+### About Me 
 - During my off time, I enjoy cycling in Hoboken and New York
 - Since December 2021, I have been working as a Substitute Paraprofessional for the Department of Education in NYC
 - Although I have no industry experience, I would love the opportunity to work/intern for a company focusing on software develpment within education and/or physical system implimentation for quality of life or security in education
