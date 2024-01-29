@@ -17,6 +17,11 @@
 - **Skill 3**: Experienced programming using C++, Python, HTML, CSS, Javascript, MATLAB, and Swift
 
 ---
+### **My short terms goals are to**
+1. Continue working on my personal project, *Autism Companion*
+2. Participate in the TD Five Boro Bike Tour in May
+3. Secure an internship for Summer 2024
 
-*Feel free to contact me at [jwilson5@stevens.edu](mailto:your-email@example.com) or connect with me on [[LinkedIn](https://www.linkedin.com/in/joriswilson11/)]
+---
+*Feel free to contact me at [jwilson5@stevens.edu](mailto:your-email@example.com) or connect with me on [[LinkedIn](https://www.linkedin.com/in/joriswilson11/)]*
 
