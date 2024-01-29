@@ -22,6 +22,15 @@
 2. Participate in the TD Five Boro Bike Tour in May
 3. Secure an internship for Summer 2024
 
+### **My long terms goals are to**
+1. Pursue a Masters of Science in Software Engineering
+2. Have a job with the DoD or DoE
+3. Become a homeowner, and adopt two cats
+   - One tuxedo cat who I will name Morgana (Mona for short)
+   - One orange cat (name is TBD)
+
+
+> If you are using Git on your local machine, don't forget to `git add`, `git commit`, and `git push` before logging off for the day!
 ---
 *Feel free to contact me at [jwilson5@stevens.edu](mailto:your-email@example.com) or connect with me on [[LinkedIn](https://www.linkedin.com/in/joriswilson11/)]*
 
