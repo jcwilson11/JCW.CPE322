@@ -26,8 +26,10 @@
 1. Pursue a Masters of Science in Software Engineering
 2. Have a job with the DoD or DoE
 3. Become a homeowner, and adopt two cats
-   - One tuxedo cat who I will name Morgana (Mona for short)
-   - One orange cat (name is TBD)
+   - One tuxedo cat who I will name Morgana (Mona for short)![25894665968_9ea68c4d5a_b](https://github.com/jcwilson11/JCW.CPE322/assets/92812970/190acafe-3205-44ac-a844-4345ffb5a48b)
+
+   - One orange cat (name is TBD) ![marm-boots](https://github.com/jcwilson11/JCW.CPE322/assets/92812970/c92e85d6-683c-4a58-b641-6c35fd3367ac)
+
 
 
 > If you are using Git on your local machine, don't forget to `git add`, `git commit`, and `git push` before logging off for the day!
