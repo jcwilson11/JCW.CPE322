@@ -3,6 +3,12 @@
 
 ## This repo will contain all related files and notes to CPE 322, an undergraduate design class at Stevens Institute of Technology
 
+## COURSE DESCRIPTION
+
+This course introduces students to critical engineering design topics such as needs assessment, problem formulation, modeling, patents, abstraction and synthesis, economic analysis, product liability, ergonomics, engineering ethics, hazards analysis, design for X, material selection, and manufacturing processes. Students learn that engineering is a service profession, dedicated to satisfying humanity's needs through responsible, methodical, and creative problem solving.
+
+
+
 ---
 
 ## My name is Joris, and I am a 3rd year computer engineering undergrad at Stevens
