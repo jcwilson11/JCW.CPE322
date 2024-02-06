@@ -1,4 +1,5 @@
 # **Joris Wilson: CPE 322 - Engineering VI**
+# ***This course is still ongoing***
 
 ## This repo will contain all related files and notes to CPE 322, an undergraduate design class at Stevens Institute of Technology
 
