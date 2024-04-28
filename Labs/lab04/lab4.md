@@ -1,4 +1,4 @@
-# CPE 322 - Lab 4
+# CPE 322 - Lab 4 (In progress)
 
 ### Setup
 ![cd ](lab4_01.png)
