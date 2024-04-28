@@ -9,5 +9,11 @@
 ### Command: `node hello.js`
 ![node hello.js ](lab6_03.png)
 
-### Command: `python3 datetime_example.py`
-![datetime_example.py ](lab6_04.png)
+### Command: `node http.js`
+![node http.js ](lab6_04.png)
+
+### Command: `node http.js`
+![node http.js ](lab6_05.png)
+
+### Pystache 
+![Pystache  ](lab6_06.png)
