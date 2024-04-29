@@ -9,5 +9,5 @@
 ### Setup - MyCPU
 ![cd2 ](lab4_03.png)
 
-### Setup - MyCPU
+### MyCPU
 ![CPU ](lab4_04.png)
