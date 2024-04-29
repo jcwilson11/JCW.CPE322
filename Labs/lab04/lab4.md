@@ -1,4 +1,4 @@
-# CPE 322 - Lab 4 (In progress)
+# CPE 322 - Lab 4
 
 ### Setup - Weather Station
 ![cd ](lab4_01.png)
