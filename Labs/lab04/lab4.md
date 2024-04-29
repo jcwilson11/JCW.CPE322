@@ -6,8 +6,8 @@
 ### Weather Station
 ![WS ](lab4_02.png)
 
-### Setup- MyCPU
+### Setup - MyCPU
 ![cd2 ](lab4_03.png)
 
-### Setup- MyCPU
+### Setup - MyCPU
 ![CPU ](lab4_04.png)
