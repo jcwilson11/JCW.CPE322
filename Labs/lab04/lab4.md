@@ -1,10 +1,13 @@
 # CPE 322 - Lab 4 (In progress)
 
-### Setup
+### Setup - Weather Station
 ![cd ](lab4_01.png)
 
 ### Weather Station
 ![WS ](lab4_02.png)
 
-### MyCPU
-![CPU ](lab4_03.png)
+### Setup- MyCPU
+![cd2 ](lab4_03.png)
+
+### Setup- MyCPU
+![CPU ](lab4_04.png)
