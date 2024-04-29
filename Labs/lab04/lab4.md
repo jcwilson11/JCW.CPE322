@@ -3,5 +3,8 @@
 ### Setup
 ![cd ](lab4_01.png)
 
-### Command: `python3 subcpu.py, python3 pubcpu.py`
-![cd ](lab4_01.png)
+### Weather Station
+![WS ](lab4_02.png)
+
+### MyCPU
+![CPU ](lab4_03.png)
