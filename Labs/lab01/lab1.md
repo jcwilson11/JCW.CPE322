@@ -1,4 +1,4 @@
-# CPE 322 - Lab 7
+# CPE 322 - Lab 1
 
 ### Hello World
 ![world ](lab1_01.png)
