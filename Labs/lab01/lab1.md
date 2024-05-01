@@ -20,9 +20,3 @@
 
 ### 1-to-4 Demultiplexer
 ![demux ](lab1_07.png)
-
-### SR Flip-Flop
-![SRFF ](lab1_08.png)
-
-### 8-bit Square Root
-![8bit SqRt ](lab1_09.png)
