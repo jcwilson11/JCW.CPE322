@@ -16,10 +16,10 @@
 ![TFF ](lab1_05.png)
 
 ### 4-to-1 Multiplexer
-![4.1 Mux ](lab1_06.png)
+![mux ](lab1_06.png)
 
 ### 1-to-4 Demultiplexer
-![1.4 DMul ](lab1_07.png)
+![demux ](lab1_07.png)
 
 ### SR Flip-Flop
 ![SRFF ](lab1_08.png)
